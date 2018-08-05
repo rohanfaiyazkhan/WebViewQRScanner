@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebView + QR Scanner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_start_url">http://www.google.com</string>
+    <string name="action_scanner">QR Code Scanner</string>
+    <string name="action_webview">Web View</string>
+</resources>
